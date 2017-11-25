@@ -4,8 +4,8 @@ gem "rspec"
 #gem "hashie"
 gem "octokit"
 gem "awesomeprint", git: "https://rubygems.org/downloads/awesome_print-1.8.0.gem"
-gem 'awesome_print', '~> 1.8'
-gem install awesome_print
+#gem 'awesome_print', '~> 1.8'
+#gem install awesome_print
 group :test do
   gem "pry"
 end
